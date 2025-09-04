@@ -1,0 +1,5 @@
+{
+  "name": "Indian Company DCF Calculator",
+  "description": "A sophisticated financial tool to calculate the intrinsic value of Indian companies using the Discounted Cash Flow (DCF) method. Users can input key financial metrics to project future cash flows, determine terminal value, and arrive at an equity value per share.",
+  "requestFramePermissions": []
+}
